@@ -31,9 +31,9 @@ Se realizó una investigación individual de las funciones, documentando su desc
 
 ## Autor
 
-**Estudiante:** [Luis Fernando Gómez Triviño] 
-**Asignatura:** [Ciencia de Datos]
-**Institución:** [Universidad Agraria de Colombia]
+**Estudiante:** Luis Fernando Gómez Triviño. 
+**Asignatura:** Ciencia de Datos.
+**Institución:** Universidad Agraria de Colombia.
 
 ## Conclusión
 
