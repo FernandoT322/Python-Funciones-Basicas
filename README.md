@@ -31,9 +31,9 @@ Se realizó una investigación individual de las funciones, documentando su desc
 
 ## Autor
 
-**Estudiante:** [Escribe tu nombre completo]  
-**Asignatura:** [Nombre de la asignatura]  
-**Institución:** [Nombre de la institución]
+**Estudiante:** Luis Fernando Gómez Triviño 
+**Asignatura:** Ciencia de Datos
+**Institución:** Universidad Sgraria de Colombia
 
 ## Conclusión
 
